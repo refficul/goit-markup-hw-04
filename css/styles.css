@@ -63,7 +63,9 @@ body {
 }
 
 /* Header section */
-
+.logo-header {
+  margin-right: 76px;
+}
 .header {
   background-color: var(--color-white);
   border-bottom: 1px solid #e7e9fc;
